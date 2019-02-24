@@ -3,6 +3,12 @@
 
 void main()
 {
-	int temp[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
-	printf("%d \n", BinarySearcHRanK2(12, temp, 12));
+	int temp[] = { 1, 4, 2, 6, 8, 2, 4, 5, 3, 9, 4, 5, 9, 4, 2, 1, 7, 0 };
+
+	MergeSort1(temp, 0, 17);
+
+	for (int i = 0; i < 17; i++)
+	{
+		printf("%d ",temp[i]);
+	}
 }

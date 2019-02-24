@@ -23,5 +23,8 @@
     <ClCompile Include="source\BinarySearcHRanK.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="source\MergeSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

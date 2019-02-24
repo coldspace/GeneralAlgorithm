@@ -15,6 +15,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="source\BinarySearcHRanK.cpp" />
+    <ClCompile Include="source\MergeSort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{C15FF7D0-BC83-4AB4-BBB6-4AC22662D935}</ProjectGuid>
